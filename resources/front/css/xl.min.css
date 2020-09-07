@@ -1,0 +1,42 @@
+.title2
+{
+    font-size: 1.25rem;
+}.txt
+{
+    font-size: 1rem;
+}#wrap
+{
+    letter-spacing: -.5px;
+}.content
+{
+    max-width: 1140px;margin: auto;
+}.intro
+{
+    font-size: 3.75rem;letter-spacing: -2px;
+}.name
+{
+    margin-top: 20px;
+}.name:before
+{bottom: -160px;left: 50%;
+
+    width: 1120px;height: 200px;margin-left: -560px;
+}strong.intro-text
+{
+    font-size: 4.375rem;
+}.hashtag
+{
+    font-size: 1.25rem;margin-top: 65px;
+}.skill .title2
+{float: right;
+
+    margin-top: -1px;margin-bottom: 0;
+}.skill .progress-wrap
+{
+    margin-top: 5px;
+}.contact p
+{
+    font-size: 1.75rem;
+}.contact .title2
+{
+    font-size: 3.125rem;margin-bottom: 50px;
+}
